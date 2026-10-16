@@ -75,7 +75,8 @@ test/
 - Color tokens and radii live in `lib/theme/app_theme.dart` — update
   `AppColors`/`AppRadius` to re-skin the whole app consistently.
 ## Output
-<img width="561" height="1280" alt="image" src="https://github.com/user-attachments/assets/77c6f669-24c0-4087-b933-a89a7471cf4b" />
+<img width="328" height="744" alt="image" src="https://github.com/user-attachments/assets/67a2a376-2301-42c7-a0b3-4ac8f9e2f04d" />
+<img width="328" height="744" alt="image" src="https://github.com/user-attachments/assets/3c84e0f6-6c35-44c5-8f79-c03c88c475e2" />
 
 
 
