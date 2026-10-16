@@ -77,6 +77,9 @@ test/
 ## Output
 <img width="328" height="744" alt="image" src="https://github.com/user-attachments/assets/67a2a376-2301-42c7-a0b3-4ac8f9e2f04d" />
 <img width="328" height="744" alt="image" src="https://github.com/user-attachments/assets/3c84e0f6-6c35-44c5-8f79-c03c88c475e2" />
+<img width="168" height="373" alt="image" src="https://github.com/user-attachments/assets/74687d1a-e651-4445-b1cc-e9667b8b30f3" />
+<img width="330" height="740" alt="image" src="https://github.com/user-attachments/assets/de9bacc0-75fd-4e38-9c58-8ecefbc1319d" />
+
 
 
 
